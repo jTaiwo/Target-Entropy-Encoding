@@ -1,5 +1,6 @@
 # Target-Entropy-Encoding
-An enhanced nominal categorical data encoding algorithm for binary classification in machine learning 
+An enhanced nominal categorical data encoding algorithm for binary classification in machine learning. 
+
 
 Most machine learning classification problems involve the use of datasets containing a mixture of numeric and categorical feature. Encoding categorical data is an important step in feature engineering since most machine learning algorithms only accept numeric inputs. However, the most widely used encoding algorithms are memory inefficient. More memory-efficient encoding algorithms have been developed, but these algorithms tend to trade off performance for improved memory usage. This study is aimed at developing an enhanced nominal categorical data encoding algorithm for binary classification in machine learning.
 
